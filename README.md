@@ -1,4 +1,4 @@
-# Bincode-Next-Test
+# Bincode-Next
 
 <img align="right" src="./logo.svg" height="200" />
 
